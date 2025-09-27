@@ -9,6 +9,8 @@ _(You might also be interested in [`mpv_crop_script.lua`](https://github.com/The
 
 ## What is it?
 
+This fork merges https://github.com/marzzzello/mpv_thumbnail_script/pull/40 and rebases onto the newest changes from upstream as of 2025/09/27.
+
 `mpv_thumbnail_script.lua` is a script/replacement OSC for [mpv](https://github.com/mpv-player/mpv) to display preview thumbnails when hovering over the seekbar, without any external dependencies[<sup>1</sup>](#footnotes), cross-platform-ly[<sup>2</sup>](#footnotes)!
 
 The script supports all four built-in OSC layouts, [as seen in this Youtube video](https://www.youtube.com/watch?v=WsfWmO41p8A).\
